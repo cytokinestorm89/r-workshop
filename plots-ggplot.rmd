@@ -1,0 +1,9 @@
+---
+title: "Creating Graphs in R with 'ggplot2'"
+author: "Alex Faust"
+date: "1/24/2021"
+output: html_document
+---
+# Plots with ggplot2 
+
+We are going to make plots with ggplot2, and it's going to be amazing.  
